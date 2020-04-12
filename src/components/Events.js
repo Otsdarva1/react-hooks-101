@@ -11,7 +11,7 @@ const Events = ({ state, dispatch }) => {
           <tr>
             <th>ID</th>
             <th>タイトル</th>
-            ß<th>ボディー</th>
+            <th>ボディー</th>
             <th></th>
           </tr>
         </thead>
